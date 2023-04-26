@@ -1,0 +1,10 @@
+!DOCTYPE html>
+<html>
+<head>
+	<title>communication</title>
+</head>
+<body>
+<h3>Skill 1: Communication</h3>
+<p>I am very good at communicating. This can prove useful when I need to communicate with patients.</p>
+</body>
+</html>

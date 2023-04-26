@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<frameset cols="100% ; rows="30%, 10%, 50%, 10%">
+	<frame src="w10 heading.html" ; name="header">
+	<frame src="navigation.html" ; name="nav">
+<frameset cols="30%, 60%" ; rows="50%>
+	<frame src="work.html" ; name="frame3">
+	<frame name="frame4">
+</frameset>
+<frameset cols="100%" ; rows="10%'>
+	<frame src="footer.html" ; name="footer">
+</frameset>
+</html>

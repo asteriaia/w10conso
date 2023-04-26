@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>services offered</title>
+</head>
+<body bgcolor="#ffeecc">
+<table cellspacing="30" ; border="5px" ; align="center">
+<tr>
+	<th align="center" ; valign="middle" bgcolor="#fff7e6" ; colspan="3" ; height="40" ; style="font-family:Brush Script MT; color:black; font-size:25px">
+	<b>Services Offered</b>
+	</th>
+</tr>
+<tr>
+<td bgcolor="ffeecc">
+	<a href="communication.html" ; target="C2">
+	<img title="Communication" src="communication.html" ; alt="Communication" ; width="150 ; height="150">
+	</a>
+</td>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head><title>Origami Star</title></head>
+<body background="lucky star (2).png">
+<h2>Origami Star</h2>
+<img src="https://cdn.shopify.com/s/files/1/0029/7782/products/image_b23e0b71-b881-489b-8304-3b3fb8561fc1_1024x1024@2x.jpg" width="600" ; height="500">
+<p>These "lucky stars" are sometimes called "wishing stars". Origami lucky stars are supposed to bring you luck as you<br>
+fold them and even more luck if you give them away. So, let's learn how to make lucky stars!</p>
+<p>Materials:</p>
+<ul>
+       <li>Strips of paper (length and size may vary)
+</ul>
+<p>Instructions:</p>
+<ol>
+       <li>Cut a strip of paper.
+       <li>Start with your strip of paper color side up if you're using colored paper or origami paper.
+       <li>Bring the right end of the paper over and down.
+       <li>Bring the bottom end up and over the left end.
+       <li>Feed the top end of your loop behind and through the hole.
+       <li>Continue to pull the end through the loop, also gently pull the bottom end to tighten the knot.
+       <li>Keep wiggling and pulling the knot tighter, flattening it at the same time.
+       <li>The end of the paper strip on the left should be much longer than the end on the right. Fold the excess end behind. You do not need to cut it off but you can do if it's too long.
+       <li>Fold the end on the left behind, keeping the bottom edge aligned with the bottom edge of the shape in the center.
+       <li>Continue wrapping the pentagon. Fold the strip on top, over to the top left.
+       <li>Again wrapping the pentagon, fold the strip down behind to the bottom.
+       <li>Fold the strip up and over to the right.
+       <li>Fold the strip over behind to the left and continue until you only have a small section left.
+       <li>If your strip is just a bit too long, cut it or tear it off.
+       <li>Insert the end of the strip inside the pocket.
+       <li>Now inflate the star. Use your index finger and thumb to pinch in one of the points of the star. Do the same on all points.
+       <li>You can get different results by pinching more or less at this stage.
+</ol>
+</body>
+</html>

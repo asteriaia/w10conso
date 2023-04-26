@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>educational background</title>
+</head>
+<body>
+<h3>UP Diliman [University of the Philippines Diliman]</h3>
+<p>Ph.D in BS Psychology | 8 Years</p>
+<p>Quezon Hall, UP Diliman | Office of Admissions Address: Kalaw cor. Quirino Avenue,<br>
+UP Diliman</p>
+<a href="college courses covered.html" ; target="frame4">
+<h3>Sta. Elena High School</h3>
+<p>6 years</p>
+<p>W. Paz St., Sta. Elena, Marikina City</p>
+<a href="highschool courses covered.html" ; target="frame4">
+<h3>Primemont Science School</h3>
+<p>6 years</p>
+<p>33 R. Palma corner, M. Tuazon St., Marikina, Metro Manila</p>
+<a href="elementary courses covered.html" ; target="frame4">
+</body>
+</html>

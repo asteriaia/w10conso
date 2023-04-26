@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>heading</title>
+</head>
+<body>
+<img src="resume.png" ; height="150" ; width="150">
+
+<h1 align="center" style="color:black;">Estrella Marisse P. Samonte</h1>
+<p align="center" style="color:black;">Chef Aster</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>desc 2</title>
+</head>
+<body>
+<ul>
+	<li>Help manage a variety of mental illnesses.
+	<li>Diagnose mental health conditions.
+	<li>Monitor medications and provide therapy.
+</ul>
+</body>
+</html>

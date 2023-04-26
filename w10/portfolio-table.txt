@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>W8 | TABLE AND IMAGES | TARGETED INSTRUCTIONS</title>
+</head>
+<body bgcolor="#655978">
+<h1><center>
+<hr style="height:3px" color="#A778F0" width="40%">
+<hr style="height:4px" color="#C57AF9" width="60%">
+<h1 style="font color=#FFFFFF";face="Helvetica"> 12 Genshin Characters </font>
+<hr style="height:4px" color="#C57AF9" width="60%">
+<hr style="height:3px" color="#A778F0" width="40%">
+</h1></center>
+<br>
+<table background="https://upload-os-bbs.hoyolab.com/upload/2022/05/02/148836793/1b21b2a6ac5cad554946cf2edd018de5_1572631591524499603.png?x-oss-process=image/resize,s_1000/quality,q_80/auto-orient,0/interlace,1/format,png" border="5" bordercolor="#783B1A" align="center" width="600" cellpadding="3" cellspacing="35">
+
+<tr>
+<td style="font-family:Brush Script MT ; font-size:200%" color="#8A3C11" colspan="3" align="center" bgcolor="#F1E8F6"><b>Inazuma Characters</b></td>
+</tr>
+
+<tr>
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/9/97/Character_Raiden_Shogun_Card.png/revision/latest?cb=20220725205132"><img src="https://indonesia.postsen.com/content/uploads/2022/06/26/79d06b2df9.jpg" width="400" height="400" alt="Raiden Shogun" Title="Raiden Shogun"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Character_Sangonomiya_Kokomi_Card.png/revision/latest?cb=20220725205145"><img src="https://pbs.twimg.com/media/FMKw8I7WUAEd5vD?format=jpg" width="400" height="400" alt="Sangonomiya Kokomi" Title="Sangonomiya Kokomi"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Character_Gorou_Card.png/revision/latest?cb=20220725204934"><img src="https://pbs.twimg.com/media/FTAsiTpVUAE9Oxm.jpg" width="400" height="400" alt="Gorou" Title="Gorou"></a></td>
+</tr>
+
+<tr>
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Raiden Shogun</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Sangonomiya Kokomi</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Gorou</th>
+</tr>
+
+<tr>
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/3/37/Character_Arataki_Itto_Card.png/revision/latest?cb=20220725204845"><img src="https://pbs.twimg.com/media/FUIlU2-WQAAE6CR?format=jpg" width="400" height="400" alt="Arataki Itto" Title="Arataki Itto"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/4/46/Character_Kujou_Sara_Card.png/revision/latest?cb=20220725205032"><img src="https://pbs.twimg.com/media/FXmQ5oFVUAExwkq?format=jpg" width="400" height="400" alt="Kujou Sara" Title="Kujou Sara"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Thoma_Card.png/revision/latest?cb=20220725205212"><img src="https://pbs.twimg.com/media/FIeuGXZVkAQdZ7B.jpg" width="400" height="400" alt="Thoma" Title="Thoma"></a></td>
+</tr>
+
+<tr>
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Arataki Itto</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Kujou Sara</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Thoma</th>
+</tr>
+
+<tr>
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/8/83/Character_Sayu_Card.png/revision/latest?cb=20210607100829"><img src="https://genshin.global/wp-content/uploads/2022/10/sayu-birthday-art-genshinimpact-1.jpg" width="400" height="400" alt="Sayu" Title="Sayu"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Kamisato_Ayaka_Card.png/revision/latest?cb=20210607100828"><img src="https://pbs.twimg.com/media/FdtkzjjaUAIoYZk?format=jpg" width="400" height="400" alt="Kamisato Ayaka" Title="Kamisato Ayaka"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Kamisato_Ayato_Card.png/revision/latest?cb=20220927195614"><img src="https://pbs.twimg.com/profile_images/1493939854685589506/8GLEsdMc_400x400.jpg" width="400" height="400" alt="Kamisato Ayato" Title="Kamisato Ayato"></a></td>
+</tr>
+
+<tr>
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Sayu</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Kamisato Ayaka</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Kamisato Ayato</th>
+</tr>
+
+<tr>
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Character_Kaedehara_Kazuha_Card.png/revision/latest?cb=20210607100841"><img src="https://pbs.twimg.com/media/FgNWKA2X0AMz0GR.jpg" width="400" height="400" alt="Kaedehara Kazuha" Title="Kaedehara Kazuha"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Character_Yoimiya_Card.png/revision/latest?cb=20210607100839"><img src="https://preview.redd.it/jyo1th7gew691.jpg?auto=webp&s=10bbc6facc8f968a6b22e5abb2e908a4589c3d64" width="400" height="400" alt="Yoimiya" Title="Yoimiya"></a></td>
+
+<td><a href="https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Yae_Miko_Card.png/revision/latest?cb=20211231161334"><img src="https://pbs.twimg.com/media/FWOob5vVEAAAAS8?format=jpg&name=4096x4096" width="400" height="400" alt="Yae Miko" Title="Yae Miko"></a></td>
+</tr>
+
+<tr>
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Kaedehara Kazuha</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Yoimiya</th>
+
+<th style="font-family:Helvetica ; font-size:100% ; color:#000000" align="center" bgcolor="#F1E8F6">Yae Miko</th>
+</tr>
+
+</table>
+
+<center>
+<hr style="height:3px" color="#A778F0" width="40%">
+<p style="color:#FFFFFF">To learn more about Genshin characters, especially from other regions, click the symbol: <a href="https://genshin.gg/"><img src="https://cdn3.emoji.gg/emojis/1946_anemo.png" width="50" height="50" alt="Anemo Symbol" Title="Anemo Symbol"></a></p>
+
+</html>

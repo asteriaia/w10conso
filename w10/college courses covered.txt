@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>college courses</title>
+</head>
+<body>
+<ul>
+	<li>Psychology
+	<li>Science
+	<li>Math
+	<liTheories of Personality
+	<li>Developmental Psychology
+</ul>
+</body>
+</html>

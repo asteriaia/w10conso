@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>desc 3</title>
+</head>
+<body>
+<ul>
+	<li>Offer assistance to different specialists in training<br>
+in treating people with social issues.
+	<li>Observing and assessing patients' behavior</p>
+	<li>Provide behavior analysis and health consultations to<br>
+individuals who are diagnosed with development delay issues, disabilities,<br>
+autism spectrum disorders.
+</ul>
+</body>
+</html>

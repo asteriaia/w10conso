@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+     <title>W7 | FRAMES | SAMONTE</title>
+</head>
+<frameset rows="10%, 70%">
+<frame src="heading.html">
+<frameset cols="15%, 75%">
+<frame src="unordered list.html">
+<frame name="ACTW7">
+</frameset>
+</html>
